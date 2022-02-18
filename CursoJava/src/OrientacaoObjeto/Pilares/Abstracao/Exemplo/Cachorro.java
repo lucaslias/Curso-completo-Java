@@ -1,0 +1,15 @@
+package OrientacaoObjeto.Pilares.Abstracao.Exemplo;
+
+public class Cachorro extends Mamifero{
+	
+	@Override
+	public String mamar() {
+		return "usando leite";
+	}
+
+	@Override
+	public String mover() {
+		return "usando as patas";
+	}
+
+}
