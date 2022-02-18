@@ -8,7 +8,7 @@ public class ConversaoTipos {
 	
 	public static void main(String[] args) {
 	
-	//conversao inplicita
+	//conversao implicita
 	double a = 1;
 	
 	//conversão explicita(cast)
